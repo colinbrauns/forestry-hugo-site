@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: ''
+banner_image: "/uploads/2018/06/04/13516197_10100632839696173_3675861473600548157_n.jpg"
 layout: landing-page
 heading: Colin Brauns
 partners:
