@@ -16,7 +16,7 @@ fields:
 - type: text
   name: sub_heading
   label: Hero Sub heading
-  default: Engineering and Health Sciences
+  default: ''
 - type: file
   name: banner_image
   label: Hero Image
