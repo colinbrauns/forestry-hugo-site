@@ -72,5 +72,10 @@ fields:
   type: text
   hidden: true
   default: home
+- type: blocks
+- type: select
+  config:
+    source:
+      type: datafiles
 pages:
 - index.md
