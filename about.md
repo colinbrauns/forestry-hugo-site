@@ -21,4 +21,4 @@ menu:
     url: "/about/"
     weight: 2
 ---
-Colin Brauns is a technology and community professional. 
+Colin Brauns is a technology and community professional.
