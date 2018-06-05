@@ -23,6 +23,7 @@ hero_button:
   href: "/about"
 show_news: false
 show_staff: false
+undefined: ''
 menu:
   navigation:
     name: Colin Brauns
