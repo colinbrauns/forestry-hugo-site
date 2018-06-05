@@ -67,7 +67,7 @@ fields:
   name: show_news
   label: Show News?
   description: Enables a news section with a twitter feed & latest posts
-  default: true
+  default: false
 - name: layout
   label: Layout
   type: text
