@@ -10,5 +10,5 @@ menu:
     name: Contact
     identifier: _contact
     url: "/contact/"
-    weight: 4
+    weight: 6
 ---
