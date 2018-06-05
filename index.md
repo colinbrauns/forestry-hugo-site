@@ -2,7 +2,7 @@
 title: " Colin Brauns"
 banner_image: ''
 layout: landing-page
-heading: ''
+heading: Colin Brauns
 partners: []
 services: []
 sub_heading: ''
