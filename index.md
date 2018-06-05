@@ -2,7 +2,7 @@
 title: Colin Brauns
 banner_image: "/uploads/2018/06/05/Untitled-1.png"
 layout: landing-page
-heading: Colin Brauns
+heading: ''
 partners: []
 services:
 - description: Performing collaborative research and providing services to support
