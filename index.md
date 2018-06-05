@@ -14,8 +14,10 @@ services:
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: ''
-textline: Thanks for checking my personal website out. I'm Colin. Professionally,
-  I'm a sometimes founder, community builder, and wearer of many operational hats.
+textline: |-
+  Thanks for checking my personal website out. I'm Colin. Professionally, I'm a sometimes founder, community builder, and wearer of many operational hats.
+
+  This is a new site under construction still. Let me know if you have suggestions!
 hero_button:
   text: Learn more
   href: "/about"
