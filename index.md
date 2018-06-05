@@ -1,6 +1,6 @@
 ---
-title: Home
-banner_image: "/uploads/2018/06/04/13516197_10100632839696173_3675861473600548157_n-1"
+title: Colin Brauns
+banner_image: ''
 layout: landing-page
 heading: Colin Brauns
 partners:
@@ -16,7 +16,7 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Work @ Google Cloud. Cantabrigian. Dog owner. Snowboarder. Island lover.
+sub_heading: ''
 textline: Killin it
 hero_button:
   text: Learn more
@@ -25,7 +25,7 @@ show_news: true
 show_staff: false
 menu:
   navigation:
-    name: Home
+    name: Colin Brauns
     identifier: _index
     url: "/"
     weight: 1
