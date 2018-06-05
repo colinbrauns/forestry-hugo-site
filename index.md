@@ -1,6 +1,6 @@
 ---
 title: Colin Brauns
-banner_image: "/uploads/2018/06/05/Untitled-1.png"
+banner_image: "/uploads/2018/06/05/Untitled-1-1"
 layout: landing-page
 heading: ''
 partners: []
