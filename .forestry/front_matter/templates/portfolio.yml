@@ -7,3 +7,5 @@ fields:
   name: Portfolio
   label: Portfolio
   description: Portfolio
+pages:
+- photos.html
