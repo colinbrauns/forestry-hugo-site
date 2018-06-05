@@ -33,6 +33,7 @@ fields:
   - type: text
     name: href
     label: Link
+  hidden: true
 - type: textarea
   name: textline
   label: Description
