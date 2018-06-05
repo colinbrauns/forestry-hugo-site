@@ -1,5 +1,5 @@
 ---
-title: " "
+title: " Colin Brauns"
 banner_image: ''
 layout: landing-page
 heading: ''
@@ -18,7 +18,7 @@ show_staff: false
 undefined: ''
 menu:
   navigation:
-    name: " "
+    name: " Colin Brauns"
     identifier: _index
     url: "/"
     weight: 1
