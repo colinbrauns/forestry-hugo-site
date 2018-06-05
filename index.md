@@ -3,10 +3,7 @@ title: Colin Brauns
 banner_image: ''
 layout: landing-page
 heading: Colin Brauns
-partners:
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
+partners: []
 services:
 - description: Performing collaborative research and providing services to support
     the Health Sector.
@@ -17,7 +14,8 @@ services:
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: ''
-textline: Killin it
+textline: Thanks for checking my personal website out. I'm Colin. Professionally,
+  I'm a sometimes founder, community builder, and wearer of many operational hats.
 hero_button:
   text: Learn more
   href: "/about"
