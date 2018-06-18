@@ -21,8 +21,4 @@ menu:
     url: "/about/"
     weight: 2
 ---
-So you wanna learn more, huh? Thanks! 
-
-I'll start with my recent history, and work backwards. 
-
-I currently work at Google, on the Cloud for Startups Program.
+I currently work at [Google](https://www.google.com/), on the [Cloud for Startups Program.](https://cloud.google.com/developers/startups/)
