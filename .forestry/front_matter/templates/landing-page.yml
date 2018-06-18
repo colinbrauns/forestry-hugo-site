@@ -74,4 +74,5 @@ fields:
   hidden: true
   default: home
 pages:
+- colinbrauns-com.html
 - index.md
