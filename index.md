@@ -7,9 +7,9 @@ partners: []
 services: []
 sub_heading: ''
 textline: |-
-  Thanks for checking my personal website out. I'm Colin. Professionally, I'm a sometimes founder, community builder, and wearer of many operational hats.
+  Thanks for checking my personal website out.
 
-  This is a new site under construction still. Let me know if you have suggestions!
+  This is a new site under construction still.
 hero_button:
   text: Learn more
   href: "/about"
